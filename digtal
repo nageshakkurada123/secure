@@ -7,4 +7,5 @@ if(++i)
       main();
       printf("%d\t",i);
     }
+	printf("\n");
 }
